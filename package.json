@@ -1,9 +1,9 @@
 {
-  "name": "openclaw",
+  "name": "openharmonyclaw",
   "version": "2026.3.13",
-  "description": "Multi-channel AI gateway with extensible messaging integrations",
-  "keywords": [],
-  "homepage": "https://github.com/openclaw/openclaw#readme",
+  "description": "HarmonyOS Multi-channel AI gateway with extensible messaging integrations",
+  "keywords": ["openclaw", "openharmonyclaw"],
+  "homepage": "https://github.com/SilenceNo1/openclaw#readme",
   "bugs": {
     "url": "https://github.com/openclaw/openclaw/issues"
   },
